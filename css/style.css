@@ -1,0 +1,13 @@
+@import url(12bool.css);
+@import url(12bool-responsive.css);
+/* BOX */
+.box{
+    height: 3.125rem;
+    background-color: blue;
+    border: 2px solid white;
+}
+.box-nested{
+    height: 3.125rem;
+    background-color: green;
+    border: 2px solid blue;
+}
