@@ -1,0 +1,19 @@
+@import url(../../css/12bool.css);
+@import url(../../css/12bool-responsive.css);
+.box{
+    height: 6.25rem;
+    border: .125rem solid;
+    font-weight: bold;
+}
+.brown-box{
+    background-color: #d18b46;
+}
+.white-box{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.light-brown-box{
+    background-color: #fece9e;
+}
